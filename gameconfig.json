@@ -1,8 +1,8 @@
 {
   "modes": [
-    { "modeName": "parkur",    "playerCount": 4 },
-    { "modeName": "parkur2",   "playerCount": 3 },
+    { "modeName": "parkur",    "playerCount": 2 },
+    { "modeName": "parkur2",   "playerCount": 2 },
     { "modeName": "race",      "playerCount": 2 },
-    { "modeName": "race_dagg", "playerCount": 1 }
+    { "modeName": "race_dagg", "playerCount": 2 }
   ]
 }
